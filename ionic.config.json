@@ -1,0 +1,7 @@
+{
+  "name": "indoor-nav",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
